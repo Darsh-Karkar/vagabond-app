@@ -1,0 +1,8 @@
+{
+  "name": "Vagabond - AI Travel Planner & Tracker",
+  "description": "A comprehensive travel companion for planning, navigating, and gamifying your journeys using AI-powered itineraries and location-based unlocking.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
